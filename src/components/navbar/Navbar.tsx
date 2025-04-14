@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <div className={styled.header}>
       <Container>
-        <div className="flex justify-between">
+        <div className="flex justify-between bg-amber-700">
           <div>
             {navs.map((nav) => (
               <Link
