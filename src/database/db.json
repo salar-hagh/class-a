@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "title 1",
+      "views": 200,
+      "price": 100000,
+      "description": " asf asdf asdf as dfas df;lka ;sdkf;l kad;lfkl;askd;fad",
+      "rate": 3,
+      "image": "https://letsenhance.io/static/a31ab775f44858f1d1b80ee51738f4f3/11499/EnhanceAfter.jpg"
+    },
+    {
+      "id": "2",
+      "title": "title 2",
+      "views": 100,
+      "price": 200000,
+      "description": "asd fa skdjfa osjdfioj asodijf oaisjd iofjaio sjdofji asodijfoijas odif osijd foisj odfs df sd f",
+      "rate": 1,
+      "image": "https://imageupscaler.com/wp-content/uploads/2024/07/deblured-cutty-fox.jpg"
+    },
+    {
+      "id": "3",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "4",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "5",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "6",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "7",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "8",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "9",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "10",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "11",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "12",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "13",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "14",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "15",
+      "title": "1111",
+      "price": "17469",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "description": "wewe rwer wer werw er"
+    },
+    {
+      "id": "f73d",
+      "title": "11",
+      "price": "",
+      "image": "",
+      "description": ""
+    },
+    {
+      "id": "6ee8",
+      "title": "111111",
+      "price": "1",
+      "image": "1",
+      "description": "1"
+    }
+  ],
+  "discount": [
+    {
+      "code": "discount10",
+      "percent": "10",
+      "id": "e4fb"
+    },
+    {
+      "code": "discount30",
+      "percent": "30",
+      "id": "9339"
+    },
+    {
+      "code": "discount50",
+      "percent": "50",
+      "id": "3522"
+    }
+  ],
+  "orders": []
+}
