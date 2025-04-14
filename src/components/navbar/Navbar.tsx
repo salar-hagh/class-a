@@ -44,3 +44,11 @@ function Navbar() {
 }
 
 export default Navbar;
+
+
+// pull
+// create branch
+// add
+// commit
+// push
+// PR
