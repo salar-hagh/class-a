@@ -53,10 +53,6 @@ function Dashboard() {
               onChange={formik.handleChange}
             />
 
-            {formik.touched.title && formik.errors.title ? (
-              <div className="text-red-500">{formik.errors.title}</div>
-            ) : null}
-
             <input
               className="bg-white"
               placeholder="price"
@@ -65,7 +61,7 @@ function Dashboard() {
               value={formik.values.price}
               onChange={formik.handleChange}
             />
-            
+
             <input
               className="bg-white"
               placeholder="image"
