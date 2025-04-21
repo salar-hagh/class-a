@@ -9,9 +9,7 @@ import Test from "./Test";
 function Navbar() {
   const location = useLocation();
 
-  const { getTotalQty, cartItems } = useContext(AppContext);
-
-  console.log("nav");
+  const { getTotalQty } = useContext(AppContext);
 
   return (
     <div className={styled.header}>
