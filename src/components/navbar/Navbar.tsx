@@ -8,8 +8,13 @@ import Test from "./Test";
 
 function Navbar() {
   const location = useLocation();
-
   const { getTotalQty } = useContext(AppContext);
+
+  console.log(1);
+  console.log(1);
+  console.log(1);
+  console.log(1);
+  console.log(1);
 
   return (
     <div className={styled.header}>
